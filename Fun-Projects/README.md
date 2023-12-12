@@ -9,16 +9,17 @@ Welcome to **HackTheFlash2k**, a terminal-based question/answer game where you h
 
 ## Prerequisites
 
-Make sure you have **[Node.js](https://nodejs.org/)** installed on your machine.
+Make sure you have **[Node.js](https://nodejs.org/)** & **npm** installed on your machine. 
+
+Use your respective package manager to install them.
 
 ## Installation 
 
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/DenialArcus/Projects/Fun-Projects/HackTheFlash2k.git
-cd HackTheFlash2k
-npm install
+git clone https://github.com/DenialArcus/Projects.git
+cd Projects/Fun-Projects/HackTheFlash2k
 ```
 
 ### Required Package Installation
