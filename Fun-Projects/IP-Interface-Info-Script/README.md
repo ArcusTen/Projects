@@ -1,4 +1,4 @@
-# Interface Info Script
+# IP Interface Info Script
 
 This simple Bash script retrieves information about a specified network interface using the `ip` command. It checks for the existence of an IPv4 address on the provided interface and displays the address if found.
 
