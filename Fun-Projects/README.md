@@ -16,7 +16,7 @@ Make sure you have **[Node.js](https://nodejs.org/)** installed on your machine.
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/DenialArcus/Projects/Fun_Projects/HackTheFlash2k.git
+git clone https://github.com/DenialArcus/Projects/Fun-Projects/HackTheFlash2k.git
 cd HackTheFlash2k
 npm install
 ```
