@@ -7,12 +7,12 @@ This is a basic calculator program written in C++ that performs arithmetic opera
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/DenialArcus/Projects.git
    ```
-
+   
 2. Navigate to the project directory:
    ```bash
-   cd Calculator_in_CPP
+   cd Projects/Semester_1/Calculator_in_CPP
    ```
 
 3. Compile the C++ code:
