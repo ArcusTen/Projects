@@ -76,6 +76,17 @@ Be careful! A wrong answer might end the game.
 7. Is theFlash2k Married?
 8. Who is his Inspiration?
 
+## _**Answers**_
+
+1. Pwn
+2. Fast-Food
+3. Tokyo-Japan
+4. Arch
+5. God-Of-War 5
+6. Esports
+7. NO
+8. PEPSI PU
+
 ## _**Acknowledgments**_
 
 Special thanks to _**[theFlash2k](https://github.com/theflash2k/)**_ for inspiring this game!
