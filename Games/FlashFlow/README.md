@@ -5,7 +5,9 @@
 
 ## _**Description**_
 
-Welcome to _**FlashFlow**_, a terminal-based question/answer game where you have the chance to prove your knowledge about the mysterious **theFlash2k**. Answer a series of questions correctly and you might just become the next **theFlash2k**!
+Welcome to _**FlashFlow**_, a terminal-based question/answer game where you have the chance to prove your knowledge about the mysterious _**theFlash2k**_.
+
+Answer a series of questions correctly and you might just become the next _**theFlash2k**_!
 
 ## _**Installation**_
 
@@ -23,11 +25,24 @@ To play _**FlashFlow**_, follow these simple steps:
    ```bash
    npm install
    ```
-   
-3. **Run the game:**
+
+3. **Install Node.js and npm:**
+
+   Make sure you have Node.js and npm installed on your machine. You can download them from _[here](https://nodejs.org/en)_.
+
+   _**OR**_
+
+   Use your respective package manager to install the required packages.
+
+5. **Run the game:**
    ```bash
-   npm start
+   node index.js
    ```
+   OR
+   ```bash
+   node .
+   ```
+
 ## _**How to Play**_
 
 Answer a series of questions about theFlash2k.
@@ -61,7 +76,7 @@ Be careful! A wrong answer might end the game.
 7. Is theFlash2k Married?
 8. Who is his Inspiration?
 
-# _**Acknowledgments**_
+## _**Acknowledgments**_
 
 Special thanks to _**[theFlash2k](https://github.com/theflash2k/)**_ for inspiring this game!
 
