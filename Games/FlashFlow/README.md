@@ -7,13 +7,15 @@
 
 Welcome to _**FlashFlow**_, a terminal-based question/answer game where you have the chance to prove your knowledge about the mysterious **theFlash2k**. Answer a series of questions correctly and you might just become the next **theFlash2k**!
 
-## Installation
+## _**Installation**_
 
-To play FlashFlow, follow these simple steps:
+To play _**FlashFlow**_, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/DenialArcus/Projects.git
+   ```
+   ```bash
    cd Projects/Games/FlashFlow
    ```
    
@@ -50,13 +52,13 @@ Be careful! A wrong answer might end the game.
 
 ## _**Questions**_
 
-1. What is _theFlash2k's_ favourite CTF Domain?
-2. What is _theFlash2k's_ favourite Food?
-3. What is _theFlash2k's_ favourite Place to go on a trip?
-4. What is _theFlash2k's_ favourite Linux Distro?
-5. What is _theFlash2k's_ AAA Game?
-6. What is _theFlash2k's_ favourite Sports?
-7. Is _theFlash2k_ Married?
+1. What is theFlash2k's favourite CTF Domain?
+2. What is theFlash2k's favourite Food?
+3. What is theFlash2k's favourite Place to go on a trip?
+4. What is theFlash2k's favourite Linux Distro?
+5. What is theFlash2k's AAA Game?
+6. What is theFlash2k's favourite Sports?
+7. Is theFlash2k Married?
 8. Who is his Inspiration?
 
 # _**Acknowledgments**_
