@@ -14,7 +14,7 @@ This Python script allows you to download YouTube videos easily using the pytube
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/DenialArcus/Projects.git
+   git clone https://github.com/ArcusTen/Projects.git
    cd Projects/Fun-Projects/YT-Video-Downloader
    ```
    
