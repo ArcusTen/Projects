@@ -12,7 +12,7 @@ This simple Bash script retrieves information about a specified network interfac
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/DenialArcus/Projects.git
+   git clone https://github.com/ArcusTen/Projects.git
    cd Projects/Fun-Projects/IP-Interface-Info-Script
    ```
    
