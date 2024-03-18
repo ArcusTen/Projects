@@ -15,7 +15,7 @@ To play _**FlashFlow**_, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DenialArcus/Projects.git
+   git clone https://github.com/ArcusTen/Projects.git
    ```
    ```bash
    cd Projects/Games/FlashFlow
